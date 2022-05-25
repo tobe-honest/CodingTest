@@ -23,5 +23,4 @@ for i in range(1, N):
             tmp.append(cal_num)
     result.append(tmp)
 
-# print(result)
 print(min(result[-1]))
